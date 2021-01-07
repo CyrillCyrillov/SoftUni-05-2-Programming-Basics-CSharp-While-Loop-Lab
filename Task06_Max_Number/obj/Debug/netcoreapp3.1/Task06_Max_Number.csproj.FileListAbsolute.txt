@@ -1,0 +1,12 @@
+C:\Users\Kiril\source\repos\Lesson05\Task06_Max_Number\bin\Debug\netcoreapp3.1\Task06_Max_Number.exe
+C:\Users\Kiril\source\repos\Lesson05\Task06_Max_Number\bin\Debug\netcoreapp3.1\Task06_Max_Number.deps.json
+C:\Users\Kiril\source\repos\Lesson05\Task06_Max_Number\bin\Debug\netcoreapp3.1\Task06_Max_Number.runtimeconfig.json
+C:\Users\Kiril\source\repos\Lesson05\Task06_Max_Number\bin\Debug\netcoreapp3.1\Task06_Max_Number.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Lesson05\Task06_Max_Number\bin\Debug\netcoreapp3.1\Task06_Max_Number.dll
+C:\Users\Kiril\source\repos\Lesson05\Task06_Max_Number\bin\Debug\netcoreapp3.1\Task06_Max_Number.pdb
+C:\Users\Kiril\source\repos\Lesson05\Task06_Max_Number\obj\Debug\netcoreapp3.1\Task06_Max_Number.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Lesson05\Task06_Max_Number\obj\Debug\netcoreapp3.1\Task06_Max_Number.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Lesson05\Task06_Max_Number\obj\Debug\netcoreapp3.1\Task06_Max_Number.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Lesson05\Task06_Max_Number\obj\Debug\netcoreapp3.1\Task06_Max_Number.dll
+C:\Users\Kiril\source\repos\Lesson05\Task06_Max_Number\obj\Debug\netcoreapp3.1\Task06_Max_Number.pdb
+C:\Users\Kiril\source\repos\Lesson05\Task06_Max_Number\obj\Debug\netcoreapp3.1\Task06_Max_Number.genruntimeconfig.cache
