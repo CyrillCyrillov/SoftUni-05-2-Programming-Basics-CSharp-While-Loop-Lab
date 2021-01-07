@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Lesson05\Lesson05\bin\Debug\netcoreapp3.1\Lesson05.exe
+C:\Users\Kiril\source\repos\Lesson05\Lesson05\bin\Debug\netcoreapp3.1\Lesson05.deps.json
+C:\Users\Kiril\source\repos\Lesson05\Lesson05\bin\Debug\netcoreapp3.1\Lesson05.runtimeconfig.json
+C:\Users\Kiril\source\repos\Lesson05\Lesson05\bin\Debug\netcoreapp3.1\Lesson05.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Lesson05\Lesson05\bin\Debug\netcoreapp3.1\Lesson05.dll
+C:\Users\Kiril\source\repos\Lesson05\Lesson05\bin\Debug\netcoreapp3.1\Lesson05.pdb
+C:\Users\Kiril\source\repos\Lesson05\Lesson05\obj\Debug\netcoreapp3.1\Lesson05.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Lesson05\Lesson05\obj\Debug\netcoreapp3.1\Lesson05.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Lesson05\Lesson05\obj\Debug\netcoreapp3.1\Lesson05.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Lesson05\Lesson05\obj\Debug\netcoreapp3.1\Lesson05.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Lesson05\Lesson05\obj\Debug\netcoreapp3.1\Lesson05.dll
+C:\Users\Kiril\source\repos\Lesson05\Lesson05\obj\Debug\netcoreapp3.1\Lesson05.pdb
+C:\Users\Kiril\source\repos\Lesson05\Lesson05\obj\Debug\netcoreapp3.1\Lesson05.genruntimeconfig.cache
