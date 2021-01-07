@@ -1,0 +1,12 @@
+C:\Users\Kiril\source\repos\Lesson05\Task04_Sequence_2k_plus_1\bin\Debug\netcoreapp3.1\Task04_Sequence_2k_plus_1.exe
+C:\Users\Kiril\source\repos\Lesson05\Task04_Sequence_2k_plus_1\bin\Debug\netcoreapp3.1\Task04_Sequence_2k_plus_1.deps.json
+C:\Users\Kiril\source\repos\Lesson05\Task04_Sequence_2k_plus_1\bin\Debug\netcoreapp3.1\Task04_Sequence_2k_plus_1.runtimeconfig.json
+C:\Users\Kiril\source\repos\Lesson05\Task04_Sequence_2k_plus_1\bin\Debug\netcoreapp3.1\Task04_Sequence_2k_plus_1.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Lesson05\Task04_Sequence_2k_plus_1\bin\Debug\netcoreapp3.1\Task04_Sequence_2k_plus_1.dll
+C:\Users\Kiril\source\repos\Lesson05\Task04_Sequence_2k_plus_1\bin\Debug\netcoreapp3.1\Task04_Sequence_2k_plus_1.pdb
+C:\Users\Kiril\source\repos\Lesson05\Task04_Sequence_2k_plus_1\obj\Debug\netcoreapp3.1\Task04_Sequence_2k_plus_1.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Lesson05\Task04_Sequence_2k_plus_1\obj\Debug\netcoreapp3.1\Task04_Sequence_2k_plus_1.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Lesson05\Task04_Sequence_2k_plus_1\obj\Debug\netcoreapp3.1\Task04_Sequence_2k_plus_1.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Lesson05\Task04_Sequence_2k_plus_1\obj\Debug\netcoreapp3.1\Task04_Sequence_2k_plus_1.dll
+C:\Users\Kiril\source\repos\Lesson05\Task04_Sequence_2k_plus_1\obj\Debug\netcoreapp3.1\Task04_Sequence_2k_plus_1.pdb
+C:\Users\Kiril\source\repos\Lesson05\Task04_Sequence_2k_plus_1\obj\Debug\netcoreapp3.1\Task04_Sequence_2k_plus_1.genruntimeconfig.cache
